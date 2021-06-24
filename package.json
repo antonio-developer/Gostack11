@@ -1,0 +1,11 @@
+{
+  "name": "Gostack11",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/antonio-developer/Gostack11.git",
+  "author": "Antonio <antoniodeveloper3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
