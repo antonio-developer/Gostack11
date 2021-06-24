@@ -641,6 +641,11 @@ latest-version@^5.0.0:
   dependencies:
     package-json "^6.3.0"
 
+lodash@^3.10.0:
+  version "3.10.1"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.10.1.tgz#5bf45e8e49ba4189e17d482789dfd15bd140b7b6"
+  integrity sha1-W/Rejkm6QYnhfUgnid/RW9FAt7Y=
+
 lowercase-keys@^1.0.0, lowercase-keys@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/lowercase-keys/-/lowercase-keys-1.0.1.tgz#6f9e30b47084d971a7c820ff15a6c5167b74c26f"
@@ -1128,6 +1133,13 @@ uuidv4@^6.2.10:
   dependencies:
     "@types/uuid" "8.3.0"
     uuid "8.3.2"
+
+v4@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/v4/-/v4-0.0.1.tgz#d291f6cc971b6b226b413cc6e3d2ec77a760d41b"
+  integrity sha1-0pH2zJcbayJrQTzG49Lsd6dg1Bs=
+  dependencies:
+    lodash "^3.10.0"
 
 vary@~1.1.2:
   version "1.1.2"
